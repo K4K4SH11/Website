@@ -6,7 +6,12 @@ module.exports = {
   favicon: 'img/RoWifiLogo.ico',
   organizationName: 'RoWifi HQ',
   projectName: 'website',
+  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-166638278-1',
+      anonymizeIP: true
+    },
     navbar: {
       title: 'RoWifi',
       logo: {
