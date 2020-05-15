@@ -5,7 +5,7 @@ sidebar_label: Changelog
 description: Update Log of RoWifi
 ---
 
-## Changelog v2.0.8
+## Version 2.0.8
 
 - All Binds & Blacklists: `delete` now is aliased as `remove`
 - Add Setting: Update On Join
@@ -14,44 +14,44 @@ description: Update Log of RoWifi
 - Rework: Patreon API 
 ___
 
-## Changelog v2.0.7
+## Version 2.0.7
 
 - Add Setting: Blacklist Action
 - Change Signature of Channel Disabling
 - Add Command: Set Blacklist Action
 ___
 
-## Changelog v2.0.6
+## Version 2.0.6
 
 - Added Feature: Attempt to DM users if on the server blacklist
 ___
 
-## Changelog v2.0.5
+## Version 2.0.5
 
 - Fixes: Blacklists Custom, Disabled Channels Removal
 ___
 
-## Changelog 2.0.4
+## Versionv2.0.4
 
 - Fixes: Blacklists, Disabled Channels, Metrics
 ___
 
-## Changelog 2.0.3
+## Version 2.0.3
 
 - Fixes: Update, Settings, Premium
 ___
 
-## Changelog v2.0.2
+## Version 2.0.2
 
 - Fixes: Blacklist Removal, Premium Redeem
 ___
 
-## Changelog v2.0.1
+## Version 2.0.1
 
 - Fixes: Setup, Update, DIsabled Channels
 ___
 
-## Changelog v2.0.0
+## Version 2.0.0
 
 - Blacklists now have 3 types:
    - Name: Based on the Roblox Username
@@ -66,7 +66,7 @@ ___
 - Added the modify module to custombinds
 ___
 
-## Changelog v1.9
+## Version 1.9
 
 - Premium 
    - Introduced Beta Tier
