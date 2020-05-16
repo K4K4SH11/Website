@@ -5,6 +5,11 @@ sidebar_label: Changelog
 description: Update Log of RoWifi
 ---
 
+## Version 2.0.9
+
+- Fixes: Backup
+___
+
 ## Version 2.0.8
 
 - All Binds & Blacklists: `delete` now is aliased as `remove`
