@@ -31,7 +31,7 @@ ___
 - Fixes: Blacklists Custom, Disabled Channels Removal
 ___
 
-## Versionv2.0.4
+## Version 2.0.4
 
 - Fixes: Blacklists, Disabled Channels, Metrics
 ___
