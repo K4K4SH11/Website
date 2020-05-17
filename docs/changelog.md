@@ -5,6 +5,20 @@ sidebar_label: Changelog
 description: Update Log of RoWifi
 ---
 
+## Version 2.1.0
+
+- Removed `rankbinds multiple`
+- Removed `rankbinds auto`
+- `rankbinds new` now accepts a Rank Range in the format of `MinRank-MaxRank`
+- `rankbinds new` now accepts a Prefix parameter of auto to automatically pick the prefix
+- `rankbinds new` now accepts a Roles parameter of auto to automatically create the role if necessary and bind it
+- `rankbinds new` with a Rank Range will modify existing binds as well 
+- `rankbinds new` now accepts a Prefix parameter of disable to do nothing to the user's nickname
+- Add Functional Role `RoWifi Nickname Bypass`
+- Reworked `settings`
+- Added command `serverinfo`
+___
+
 ## Version 2.0.9
 
 - Fixes: Backup
