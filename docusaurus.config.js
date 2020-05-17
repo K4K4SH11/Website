@@ -27,7 +27,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/RoWifi-HQ/Docs',
+          href: 'https://github.com/RoWifi-HQ',
           label: 'GitHub',
           position: 'right',
         },
