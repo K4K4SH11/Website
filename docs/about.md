@@ -16,3 +16,7 @@ ___
 
 This Documention was created by and is being maintained by **Melvin#7321**.  
 If you notice any problems in the documentation, please feel free to create an issue or contact me. You're also very welcome to open a pull request with the necessary changes.
+
+:::caution Important Note
+Some pages are outdated, they will be updated within a few days!
+:::
