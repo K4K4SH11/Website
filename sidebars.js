@@ -11,7 +11,11 @@ module.exports = {
       },
       "commands/groupbinds",
       "commands/settings",
-      "commands/blacklists"
+      {
+        type: 'category',
+        label: 'Blacklists',
+        items: ['commands/blacklists/blacklists', 'commands/blacklists/custom']
+      }
     ],
     "Premium Commands": [
       "premium-commands/premium",
