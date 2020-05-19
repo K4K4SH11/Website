@@ -20,7 +20,6 @@ module.exports = {
     "Premium Commands": [
       "premium-commands/premium",
       "premium-commands/custombinds",
-      "premium-commands/customblacklists",
       "premium-commands/backups"
     ],
     "Miscellaneous": [
