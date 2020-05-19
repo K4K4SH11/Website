@@ -1,5 +1,5 @@
 ---
-id: customblacklists
+id: custom
 title: Custom Blacklists
 sidebar_label: Custom Blacklists
 description: Commands to configure Custom Blacklists
