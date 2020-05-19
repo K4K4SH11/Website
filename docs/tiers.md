@@ -2,6 +2,7 @@
 id: tiers
 title: Tiers
 sidebar_label: Tiers
+description: Support us and get special perks
 ---
 
 ## RoWifi Free
@@ -11,13 +12,15 @@ ___
 
 ## Alpha
 
-The Alpha Tier currently provides Auto Detection for one owned server.
+Want to keep it simple?  
+Support us by purchasing the Alpha Tier on Patreon and get auto detection for one owned server and immediate support.
 
 It currently costs $1 per month and can be purchased on [Patreon](https://www.patreon.com/join/rowifi/checkout?rid=4014582).
+
 ___
 
 ## Beta
 
-The Beta Tier includes Auto Detection for all owned servers. All these servers get access to binds backups, custom binds, custom blacklists and immediate support.
+Support us by purchasing the Beta Tier on Patreon and get special perks like auto detection for all owned servers, access to custom binds, backups and immediate support.
 
-It currently costs $5 per month and can be purchased on [Patreon](https://www.patreon.com/join/rowifi/checkout?rid=4656839).
+Beta currently costs $5 per month and can be purchased on [Patreon](https://www.patreon.com/join/rowifi/checkout?rid=4656839).
