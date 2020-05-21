@@ -5,6 +5,14 @@ sidebar_label: Changelog
 description: Update Log of RoWifi
 ---
 
+## Version 2.1.1
+
+- Fixes: Help Command, Bad Command Parsing
+- Added Permission Checks to `rankbinds new`
+- Fixes: Response cancellation
+- Added Command: `botinfo`
+___
+
 ## Version 2.1.0
 
 - Removed `rankbinds multiple`
