@@ -9,6 +9,12 @@ description: ‎Commands to configure the server settings.
 Run `!settings` to see your current settings.
 :::
 
+## Command Information
+
+**Description**: Module to access rankbinds of a server.  
+**Commands**: verification, verified, commands, blacklist-action, update\-on\-join, update\-on\-verify, prefix  
+___
+
 ## Bot Prefix
 This setting allows you to change the prefix or command trigger of the bot.  
 You can change the prefix of the bot by running the `!settings prefix` command.

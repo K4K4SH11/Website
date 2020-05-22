@@ -5,11 +5,22 @@ sidebar_label: Custom Binds
 description: Commands to configure Custom Binds
 ---
 
-## Information
+:::note Note
+Run `!custombinds` to see your current custombinds.
+:::
 
-Custom Binds is a type of bind allowing you to micro customize binds. These binds allow you to combine ranks and groups. There are three types of operators: "or", "and", "not". As of right now, we support four functions, HasRank\(GroupId, RankId\), IsInGroup\(GroupId\), HasRole\(@Role\) and WithString\("String"\).
+## Command Information
 
-## Operators
+**Description**: Module to access custombinds of a server.  
+**Commands**: new, delete  
+**Sub-Modules**: modify  
+**Aliases**: cb  
+**Tier**: Beta Tier
+___
+
+## Arguments
+
+### Operators
 
 | Types |
 | :---: | 
@@ -17,7 +28,7 @@ Custom Binds is a type of bind allowing you to micro customize binds. These bind
 | and |  
 | or |  
 
-## Functions
+### Functions
 
 | Name  | Description |
 | :---- | :---- |
@@ -26,8 +37,10 @@ Custom Binds is a type of bind allowing you to micro customize binds. These bind
 | HasRole\(@Role\) | Checks if the user has a role in the server |
 | WithString\("String"\) | Checks for String |
 
+___
+
 ## Example
 
 ```text
-HasRank(3108077, 15) and not IsInGroup(231)
+HasRank(99214, 5) and WithString("Wifi") or HasRole(@Family) and not IsInGroup(930297)
 ```

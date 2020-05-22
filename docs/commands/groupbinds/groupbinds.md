@@ -5,16 +5,25 @@ sidebar_label: Groupbinds
 description: Groupbinds allow you to bind roblox groups to one or multiple discord roles
 ---
 
-:::info
-To see your current groupbinds, run `!groupbinds`
+:::note Note
+Run `!groupbinds` to see your current groupbinds.
 :::
+
+## Command Information
+
+**Description**: Module to access groupbinds of a server.  
+**Commands**: new, delete  
+**Sub-Modules**: modify  
+**Aliases**: gb  
 
 ## Arguments
 
 | Arg | Description |   |
 | --- | ----------- | - | 
-| GroupID | ID of the Group https://www.roblox.com/groups/**000000** | Required |
+| GroupID | ID of the Group | Required |
 | Roles | Discord Roles. Must be mentioned. | Required |
+
+__
 
 ## Adding Groupbinds
 
@@ -25,6 +34,7 @@ You can create a groupbind by using the `!groupbinds new` command.
 ```text
 !groupbinds new GroupID @Role(s)
 ```
+___
 
 ## Deleting Groupbinds
 
@@ -36,8 +46,6 @@ You can create a groupbind by using the `!groupbinds new` command.
 !groupbinds delete GroupID
 ```
 
-## Note
-
-:::info
+:::note Note
  You can also delete all rankbinds and groupbinds by running the `!setup` command again.
 :::

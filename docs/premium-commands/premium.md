@@ -5,13 +5,19 @@ sidebar_label: Premium
 description: Commands to configure premium status of servers
 ---
 
-## Information
-
+:::note Info
 There are currently two premium tiers which can be bought throught [patreon](https://patreon.com/rowifi). More information about the tiers can be found on the [Tiers page](https://docs.rowifi.now.sh/tiers).
+:::
 
-## Redeem your premium
+## Command Information
 
-:::info
+**Description**: Module to access premium of a server.  
+**Commands**: redeem, remove    
+___
+
+## Redeem
+
+:::note Info
 To redeem your premium in a server you must be the owner of that server.
 :::
 
@@ -22,8 +28,9 @@ You can redeem your premium for the server by running the `!premium redeem` comm
 ```text
 !premium redeem
 ```
+___
 
-## Removing your premium
+## Remove
 
 You can remove your premium from the server by running the `!premium remove` command.
 

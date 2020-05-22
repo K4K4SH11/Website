@@ -5,6 +5,8 @@ sidebar_label: Bind Backups
 description: Commands to create and restore binds backups in servers
 ---
 
+
+
 ## Arguments
 
 | Arg  | Description | Necessity |

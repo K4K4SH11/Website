@@ -9,6 +9,14 @@ description: Blacklists allow you to blacklist a user from using the bot in your
 To see your current blacklists, run `!blacklists`
 :::
 
+## Command Information
+
+**Description**: Module to blacklist users from a server.  
+**Commands**: name, group, custom, remove  
+**Aliases**: blacklist, bl
+
+___
+
 ## User Blacklist
 
 You can add a user to the server blacklist by using the `!blacklists name` command.

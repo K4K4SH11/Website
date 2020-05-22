@@ -5,6 +5,13 @@ sidebar_label: Modifying Rankbinds
 description: Commands to modify rankbinds
 ---
 
+## Command Information
+
+**Description**: Module to modify rankbinds.   
+**Commands**: prefix, priortiy, roles-add, roles-remove  
+**Aliases**: modify, m
+___
+
 ## Prefix
 
 You can edit the prefix of a rankbind by using the `!rankbinds modify prefix` command.
@@ -25,7 +32,7 @@ You can edit the priority of a rankbind by using the `!rankbinds modfiy priority
 !rankbinds modify priority GroupID RankID newPriority
 ```
 
-## Modifying Rankbinds: Add Roles
+## Add Roles
 
  You can add more roles to a rankbind by using the `!rankbinds modfiy roles-add` command.
 

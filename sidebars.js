@@ -9,17 +9,25 @@ module.exports = {
         label: 'Rankbinds',
         items: ['commands/rankbinds/index', 'commands/rankbinds/modify']
       },
-      "commands/groupbinds",
-      "commands/settings",
+      {
+        type: 'category',
+        label: 'Groupbinds',
+        items: ['commands/groupbinds/groupbinds', 'commands/groupbinds/modify']
+      },
       {
         type: 'category',
         label: 'Blacklists',
         items: ['commands/blacklists/blacklists', 'commands/blacklists/custom']
-      }
+      },
+      "commands/settings"
     ],
     "Premium Commands": [
       "premium-commands/premium",
-      "premium-commands/custombinds",
+      {
+        type: 'category',
+        label: 'Custombinds',
+        items: ['premium-commands/custombinds/custombinds', 'premium-commands/custombinds/modify']
+      },
       "premium-commands/backups"
     ],
     "Miscellaneous": [

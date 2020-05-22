@@ -5,9 +5,9 @@ sidebar_label: Verification
 description: Commands regarding the linked Roblox Account
 ---
 
-## Verifying your account
+## Verify
 
-:::info
+:::note Info
 In order to use RoWifi you **must** link your Roblox account with your Discord account.
 :::info
 
@@ -16,23 +16,21 @@ In order to use RoWifi you **must** link your Roblox account with your Discord a
 ```text
 !verify username
 ```
+___
 
-## Reverify your account
+## Reverify
 
-:::info
 The reverification command allows you to remove the current account and lets you verify with another account.
-:::
 
 ### Syntax
 
 ```text
 !reverify username
 ```
+___
 
+## Remove
 
-
-## Remove your account
-
-:::warning
+:::warning Note
 It is not possible to remove your account from the Database.
 :::
