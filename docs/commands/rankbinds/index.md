@@ -15,6 +15,7 @@ Run `!rankbinds` to see your current rankbinds.
 **Commands**: new, create, delete  
 **Sub-Modules**: modify  
 **Aliases**: rb  
+___
 
 ## Arguments
 
