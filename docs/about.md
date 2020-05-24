@@ -15,7 +15,7 @@ ___
 
 **Discord Bot List**  
 Show your support by upvoting RoWifi.  
-Vist by clicking [here](https://top.gg/bot/508968886998269962).
+Visit by clicking [here](https://top.gg/bot/508968886998269962).
 
 **Patreon**  
 Check out our patreon page.  

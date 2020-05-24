@@ -5,7 +5,7 @@ sidebar_label: Blacklists
 description: Blacklists allow you to blacklist a user from using the bot in your server and take actions against a blacklisted user.
 ---
 
-:::info
+:::note Info
 To see your current blacklists, run `!blacklists`
 :::
 
