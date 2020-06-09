@@ -2,7 +2,33 @@
 id: changelog
 title: Changelog
 sidebar_label: Changelog
-description: Update Log of RoWifi
+description: Updatelog of RoWifi
+---
+
+## Version 2.3.0
+- Fixed permissions for viewing binds
+- Added Game Verification Option
+- Added 6 hrs cache to Roblox Usernames
+---
+
+## Version 2.2.1
+- Added premium command
+- rankbinds modify will direct to help
+- Fixed the settings prefix command
+- update command optimizations
+- HasRank function improvements
+- Doing help on an unknown command will no longer error
+- User cache improvements
+- Fixed the help command for rankbinds new
+---
+
+## Version 2.2.0
+
+- Code Refactor
+- Fixes: Help Command
+- Added Website to Support
+- Typos at ton of places
+- Fixes: Custom Binds
 ---
 
 ## Version 2.1.1
@@ -11,7 +37,7 @@ description: Update Log of RoWifi
 - Added Permission Checks to `rankbinds new`
 - Fixes: Response cancellation
 - Added Command: `botinfo`
-___
+---
 
 ## Version 2.1.0
 
@@ -25,12 +51,12 @@ ___
 - Add Functional Role `RoWifi Nickname Bypass`
 - Reworked `settings`
 - Added command `serverinfo`
-___
+---
 
 ## Version 2.0.9
 
 - Fixes: Backup
-___
+---
 
 ## Version 2.0.8
 
@@ -39,44 +65,44 @@ ___
 - Add Command Check: Embed Links
 - Add Setting: Update On Verify 
 - Rework: Patreon API 
-___
+---
 
 ## Version 2.0.7
 
 - Add Setting: Blacklist Action
 - Change Signature of Channel Disabling
 - Add Command: Set Blacklist Action
-___
+---
 
 ## Version 2.0.6
 
 - Added Feature: Attempt to DM users if on the server blacklist
-___
+---
 
 ## Version 2.0.5
 
 - Fixes: Blacklists Custom, Disabled Channels Removal
-___
+---
 
 ## Version 2.0.4
 
 - Fixes: Blacklists, Disabled Channels, Metrics
-___
+---
 
 ## Version 2.0.3
 
 - Fixes: Update, Settings, Premium
-___
+---
 
 ## Version 2.0.2
 
 - Fixes: Blacklist Removal, Premium Redeem
-___
+---
 
 ## Version 2.0.1
 
 - Fixes: Setup, Update, DIsabled Channels
-___
+---
 
 ## Version 2.0.0
 
@@ -91,7 +117,7 @@ ___
 - Ability to change the bots prefix
 - Added the modify module to groupbinds
 - Added the modify module to custombinds
-___
+---
 
 ## Version 1.9
 

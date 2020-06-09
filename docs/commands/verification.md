@@ -12,10 +12,13 @@ In order to use RoWifi you **must** link your Roblox account with your Discord a
 :::info
 
 ### Syntax
-
 ```text
 !verify username
 ```
+
+### Example
+![alt text](https://media.discordapp.net/attachments/696472005817532458/719530057902587944/unknown.png?width=749&height=481 "Verification Command Example")
+![alt text](https://media.discordapp.net/attachments/696472005817532458/719527754592288808/unknown.png?width=1026&height=276 "Verification Code Place")
 ___
 
 ## Reverify

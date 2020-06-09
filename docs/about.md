@@ -24,7 +24,7 @@ More information [here](https://rowifi.link/docs/tiers).
 
 **Ban Appeal**  
 Banned from any of our services?  
-Don't worry! You can appeal [here](https://forms.gle/5nPGXqiReY7SEHwv8)
+Don't worry! You can appeal [here](https://forms.gle/5nPGXqiReY7SEHwv8).
 
 **Discord**  
 Join our Discord to communicate with others, find new groups, get infos about upcoming features and more.

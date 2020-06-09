@@ -34,7 +34,7 @@ ___
 | :---- | :---- |
 | HasRank\(GroupID, RankID\) | Checks if the user has a specific rank in a group |
 | IsInGroup\(GroupID\) | Checks if the user is in the provided group |
-| HasRole\(@Role\) | Checks if the user has a role in the server |
+| HasRole\(RoleID\) | Checks if the user has a role in the server |
 | WithString\("String"\) | Checks for String |
 
 ___
@@ -42,5 +42,5 @@ ___
 ## Example
 
 ```text
-HasRank(99214, 5) and WithString("Wifi") or HasRole(@Family) and not IsInGroup(930297)
+HasRank(99214, 5) and WithString("Wifi") or HasRole(RoleID) and not IsInGroup(930297)
 ```

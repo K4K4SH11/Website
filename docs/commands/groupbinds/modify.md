@@ -14,14 +14,15 @@ description: Commands to modify groupbinds
 ___
 
 ## Add Roles
-
 You can add roles to a groupbind by using the `!rankbinds modify prefix` command.
 
 ### Syntax
-
 ```text
 !groupbinds modify roles-add GroupID @Role(s)
 ```
+
+## Example
+![alt text](https://cdn.discordapp.com/attachments/714456993066254396/714460044372213790/unknown.png "Groupbind Add Roles")
 ___
 
 ## Remove Roles

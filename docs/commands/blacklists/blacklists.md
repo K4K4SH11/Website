@@ -40,10 +40,8 @@ You can add a group to the server blacklist by using the `!blacklist group` comm
 ___
 
 ## Custom Blacklists
-
-Custom Blacklists is a premium feature.  
+ 
 Please check the [custom blacklists page](https://docs.rowifi.now.sh/premium-commands/customblacklists "Custom Blacklists").
-
 ___
 
 ## Blacklist Removal

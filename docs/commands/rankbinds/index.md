@@ -5,17 +5,17 @@ sidebar_label: Introduction
 description: You can create rankbinds to connect group ranks to discord roles
 ---
 
-:::note Note
-Run `!rankbinds` to see your current rankbinds.
-:::
-
 ## Command Information
 
 **Description**: Module to access rankbinds of a server.  
 **Commands**: new, create, delete  
 **Sub-Modules**: modify  
 **Aliases**: rb  
-___
+
+:::note Note
+Run `!rankbinds` to see your current rankbinds.
+:::
+---
 
 ## Arguments
 
@@ -53,7 +53,7 @@ ___
 | --- |     ---     |  ---    |
 | Role | Discord Role(s), must be mentioned | @Enlisted |
 | auto | Automatically creates the role for the rankbinds based on the rank name | auto |
-___
+---
 
 ## Adding Rankbinds
 
@@ -64,6 +64,8 @@ You can create rankbinds directly by running`!rankbinds new` command.
 ```text
 !rankbinds new GroupID RankID Prefix Priority @Role(s)
 ```
+## Example
+![alt text](https://cdn.discordapp.com/attachments/714455573701328958/714463741739270174/unknown.png "New Rankbind")
 
 If you are having problems with the format above you can also create rankbinds with instruction prompts by using the `!rankbinds create` command.
 
@@ -78,14 +80,14 @@ ___
 
 You can delete a rankbind by using the `!rankbinds delete` command.
 
-### Syntax
+:::note Info
+ You can also delete all rankbinds and groupbinds by running the `!setup` command again.
+:::
 
+### Syntax
 ```text
 !rankbinds delete GroupID RankID
 ```
 
-### Note
-
-:::info
- You can also delete all rankbinds and groupbinds by running the `!setup` command again.
-:::
+## Example
+![alt text](https://cdn.discordapp.com/attachments/714455647135072339/714463619102015518/unknown.png "Delete Rankbind")
