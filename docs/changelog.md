@@ -5,6 +5,22 @@ sidebar_label: Changelog
 description: Updatelog of RoWifi
 ---
 
+## Version 2.3.2
+- Fix reduplicating of backups
+- Add `!update-role @Role`
+- Implement !backups
+- Missing permission check on bind viewing 
+- Preemptive user role position check
+- Preemptive `@everyone` check in binding
+- Optimize updating
+---
+
+## Version 2.3.1
+- Add premium info to userinfo
+- Fix Mention Prefix
+- Attempted Rebalancing of Roblox Requests
+---
+
 ## Version 2.3.0
 - Fixed permissions for viewing binds
 - Added Game Verification Option
