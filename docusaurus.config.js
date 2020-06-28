@@ -32,6 +32,11 @@ module.exports = {
           position: 'right',
         },
         {
+          href: 'https://discord.com/oauth2/authorize?client_id=508968886998269962&scope=bot&permissions=402672704',
+          label: 'Invite',
+          position: 'right'
+        },
+        {
           href: 'https://discord.gg/h4BGGyR',
           label: 'Discord',
           position: 'right',
@@ -59,8 +64,5 @@ module.exports = {
         },
       },
     ],
-  ],
-  scripts: [
-    {src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", async: true, "data-ad-client": "ca-pub-1197269638005739"}
   ]
 };

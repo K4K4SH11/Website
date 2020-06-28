@@ -31,7 +31,7 @@ Join our Discord to communicate with others, find new groups, get infos about up
 Join by clicking [here](https://discord.gg/h4BGGyR).
 
 **Add RoWifi**  
-Add RoWifi by clicking [here](https://discord.com/oauth2/authorize?client_id=508968886998269962&scope=bot&permissions=2080898303).
+Add RoWifi by clicking [here](https://discord.com/oauth2/authorize?client_id=508968886998269962&scope=bot&permissions=402672704).
 ___
 
 ## Contact
