@@ -27,7 +27,7 @@ const features = [
     title: <>Powered by C#</>,
     description: (
       <>
-        RoWifi harnesses the power to C# to ensure a smooth and seamless experience.
+        RoWifi harnesses the power of C# to ensure a smooth and seamless experience.
       </>
     ),
   },
